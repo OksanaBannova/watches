@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/rj2d5158ghuav136?svg=true)](https://ci.appveyor.com/project/OksanaBannova/watches)
 
-
+[GitHub Pages](https://oksanabannova.github.io/watches/)
 
 Мировые часы
 ===
